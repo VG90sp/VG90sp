@@ -1,2 +1,2 @@
 # Владимир Григорьев 
-### Junior frontend-developer :computer:
+### Frontend-developer :computer:
